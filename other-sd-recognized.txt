@@ -1,0 +1,2 @@
+provando anche l'inserimento di altre MicroSD, 
+queste vengono riconosciute regolarmente
